@@ -45,7 +45,7 @@ I'll unzip/unrar it and return you it's contents.
 /help - This Message.
 /start - Check if bot is alive.
 
-    
+    """
     MODES = """
 **Modes**
 
